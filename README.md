@@ -1,4 +1,4 @@
---LARAVEL MVC 1
+--LARAVEL MVC 2
 
 composer install
 npm install
